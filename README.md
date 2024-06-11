@@ -21,7 +21,7 @@ simulations and experiments, and demonstrate that it can provide
 accurate, timely, and reliable information for
 agricultural management.
 
-Component Required:
+Components Required:
 1. Raspberry Pi 3 Model B
 2. ESP32
 3. LoRa sx1276
